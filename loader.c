@@ -4,9 +4,9 @@
 int main() 
 
 {
-int d;
+int d=0;
 
-scanf("%d",d);
+scanf("%d",&d);
 printf("%d",d);
 
 return 0;
